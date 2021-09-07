@@ -9,8 +9,18 @@
 * PYTHON
 * HIVE
 
-# problem statement :
+# PROBLEM STATEMENT :
 We are having a data set of used cars . We need some insights from the data set and the insights we needed are  given below. And also we some analysis on some hashtags data in twitter . The hashtags and the insights were given below.
+
+# DESCRIPTION : 
+* Took 'used cars' dataset from kaggele.
+* Loaded the data set into sandbox as a CSV file.
+* Loaded the data into a data frame and did some functions on the data set.
+* By creating a temporary table performed some SQL queries on the table.
+* Created our own data on hashtags data using tweepy library from twitter.
+* Using jupyter performed some dataframe functions on the created dataset.
+* Also used spark SQL on the created data to analyze.
+
 # INSIGHTS : 
 * The highest price and the lowest price of the cars.
 * Region having the highest number of cars.
