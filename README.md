@@ -10,8 +10,7 @@
 * HIVE
 
 # problem statement :
-We are having a data set of used cars . We need some insights from the data set and the insights we needed are  given below. And also we some analysis on some hashtags data in twitter . The hashtags and the insights were given below![image](https://user-images.githubusercontent.com/87163110/132362570-a05345cb-6680-4621-80bd-607faaca0322.png)
-
+We are having a data set of used cars . We need some insights from the data set and the insights we needed are  given below. And also we some analysis on some hashtags data in twitter . The hashtags and the insights were given below.
 # INSIGHTS : 
 * The highest price and the lowest price of the cars.
 * Region having the highest number of cars.
